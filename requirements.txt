@@ -1,0 +1,5 @@
+google-play-scraper
+krippendorff
+langdetect==1.0.9
+openpyxl
+pandas
