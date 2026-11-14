@@ -1,0 +1,16 @@
+# I keep raw reviews, review text, volunteer sheets and secrets out of this repository
+
+raw_reviews/
+*.jsonl
+pidgin_pool*
+all_pidgin_reviews*
+nigerian_pidgin_reviews*
+selected_2000*
+removed_foreign_reviews*
+FIRST_BATCH_*
+MAIN_Person*
+ALL_2351_*
+pilot_annotator_*
+*_rehydrated.csv
+.env
+*.pem
